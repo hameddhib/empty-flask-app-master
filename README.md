@@ -21,6 +21,9 @@ This is an empty [Flask][] app, using [Blueprints][], [SQLAlchemy][]
 
 Install python version 2.7 or 3
 
+Clone project from Git:
+    https://github.com/hameddhib/empty-flask-app-master.git
+
 Navigate to flask folder:
 
     cd empty-flask-app-master
