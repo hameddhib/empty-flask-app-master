@@ -37,7 +37,7 @@ Install requirements:
 
 To start develoment server, run:
 
-    ./run.py
+    python ./run.py
 
 Navigate to:
 
