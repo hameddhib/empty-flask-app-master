@@ -1,6 +1,6 @@
 # Empty Flask App
 
-This is an empty [Flask][] app, using [Blueprints][], [SQLAlchemy][] 
+This is an empty Flask app, using Blueprints, SQLAlchemy 
 
 ## Structure
 
