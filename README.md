@@ -7,10 +7,12 @@ This is an empty [Flask][] app, using [Blueprints][], [SQLAlchemy][]
 ```
 .
 ├── config.py
-├── user
-│   ├── __init__.py
-│   └── user.py
-│   └── model.py
+├── app
+│   ├── __init__.py
+│   └── user├── user.py
+│           └── __init__.py
+│           └── model.py
+│          
 ├── requirements.txt
 └── run.py
 ```
